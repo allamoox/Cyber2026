@@ -1,0 +1,22 @@
+Hello world!! I’m usually hanging around irc://wechall.net:6667 and https://cker.space,
+and sometimes you’ll see me on http://1091see.com or https://sub.1091see.com
+when I forget where I deployed things.
+
+I started out building small stuff on http://hmoud.info before moving parts to
+https://blog.cker.space and testing APIs on http://api.hmoud.info or https://dev.hmoud.info.
+
+I don’t really like using hxxps://www[.]facebook[.]com anymore,
+but you can still find me on https://www.linkedin.com,
+or reading docs on https://github.com and https://api.github.com late at night.
+
+Some days I’m pushing experiments to http://staging.cker.space
+or breaking things on http://1091see.com,
+while logs quietly mention http://cdn.cloudflare.com,
+https://aws.amazon.com, and https://google.com.
+
+If you see this in a ticket, please deobfuscate:
+- hxxps://cker[.]space/login
+- hxxp://hmoud[.]info/admin
+- hxxps://sub[.]1091see[.]com/reset?token=abc123
+- hxxps://www[.]linkedin[.]com/in/someone
+- hxxps://api[.]github[.]com/repos/allamoox/Cyber2026
