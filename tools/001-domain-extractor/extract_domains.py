@@ -4,7 +4,7 @@ import sys
 
 DOMAIN_REGEX = r"\b(?:[a-z0-9](?:[a-z0-9-]{0,61}[a-z0-9])?\.)+[a-z]{2,}\b"
 
-def extract_domains(text: str):
+def extract_domains(text):
     return sorted(set(re.findall(DOMAIN_REGEX, text.lower())))
 
 if __name__ == "__main__":
